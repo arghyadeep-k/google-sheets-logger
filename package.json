@@ -1,0 +1,27 @@
+{
+  "name": "google-sheets-logger",
+  "version": "1.0.0",
+  "description": "Logging service which saves the logs in your Google Sheets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghyadeep-k/google-sheets-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "googlesheets"
+  ],
+  "author": "Arghyadeep Kundu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arghyadeep-k/google-sheets-logger/issues"
+  },
+  "homepage": "https://github.com/arghyadeep-k/google-sheets-logger#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.8",
+    "node-datetime": "^2.1.2"
+  }
+}
