@@ -1,6 +1,6 @@
 {
   "name": "google-sheets-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logging service which saves the logs in your Google Sheets.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
   },
   "keywords": [
     "logger",
-    "googlesheets"
+    "google sheets",
+    "google",
+    "logging service",
+    "data logging",
+    "sheets",
+    "spreadsheet"
   ],
   "author": "Arghyadeep Kundu",
   "license": "MIT",

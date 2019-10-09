@@ -1,8 +1,8 @@
-# Logging Service in Google Sheets (node.js)
+# Data Logging Service in Google Sheets (node.js)
 
 [![npm version](https://badge.fury.io/js/google-sheets-logger.svg)](https://badge.fury.io/js/google-sheets-logger)
 
-A simple Node.js module for logging in Google Sheets with or without auth.
+A simple Node.js module for logging in Google Sheets.
 
 ## Installation
 
