@@ -1,6 +1,6 @@
 {
-  "name": "google-sheets-logger",
-  "version": "1.0.1",
+  "name": "@arghyadeep-k/google-sheets-logger",
+  "version": "1.0.2",
   "description": "Logging service which saves the logs in your Google Sheets.",
   "main": "index.js",
   "scripts": {
@@ -25,8 +25,12 @@
     "url": "https://github.com/arghyadeep-k/google-sheets-logger/issues"
   },
   "homepage": "https://github.com/arghyadeep-k/google-sheets-logger#readme",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "dependencies": {
     "google-spreadsheet": "^2.0.8",
     "node-datetime": "^2.1.2"
   }
 }
+

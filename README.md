@@ -1,12 +1,19 @@
 # Data Logging Service in Google Sheets (node.js)
 
 [![npm version](https://badge.fury.io/js/google-sheets-logger.svg)](https://badge.fury.io/js/google-sheets-logger)
+![Depfu](https://img.shields.io/depfu/arghyadeep-k/google-sheets-logger)
 
 A simple Node.js module for logging in Google Sheets.
 
 ## Installation
 
-[![NPM](https://nodei.co/npm/google-sheets-logger.png)](https://nodei.co/npm/google-sheets-logger/)
+Install from command line:
+
+`npm install @arghyadeep-k/google-sheets-logger@1.0.2`
+
+Install via package.json:
+
+`"@arghyadeep-k/google-sheets-logger": "1.0.2"`
 
 ## Basic Usage
 
