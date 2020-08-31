@@ -1,12 +1,30 @@
-# Data Logging Service in Google Sheets (node.js)
+# Data Logging Service in Google Sheets (Node.js)
 
-[![npm version](https://badge.fury.io/js/google-sheets-logger.svg)](https://badge.fury.io/js/google-sheets-logger)
+[![npm version](https://badge.fury.io/js/google-sheets-logger.svg)](https://badge.fury.io/js/google-sheets-logger) 
+![npm bundle size](https://img.shields.io/bundlephobia/min/google-sheets-logger)
+![Depfu](https://img.shields.io/depfu/arghyadeep-k/google-sheets-logger)
+![npm](https://img.shields.io/npm/dt/google-sheets-logger)
+![NPM](https://img.shields.io/npm/l/google-sheets-logger)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/google-sheets-logger)
+
 
 A simple Node.js module for logging in Google Sheets.
 
 ## Installation
 
 [![NPM](https://nodei.co/npm/google-sheets-logger.png)](https://nodei.co/npm/google-sheets-logger/)
+
+**Install from command line:**
+
+`npm install google-sheets-logger`
+
+Or
+
+**Install via package.json:**
+
+Add the following to your package.json file under dependencies-
+
+`"google-sheets-logger": "1.0.2"`
 
 ## Basic Usage
 
