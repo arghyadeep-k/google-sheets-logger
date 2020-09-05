@@ -1,11 +1,14 @@
 # Data Logging Service in Google Sheets (Node.js)
 
+![CI](https://github.com/arghyadeep-k/google-sheets-logger/workflows/CI/badge.svg?branch=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=arghyadeep-k_google-sheets-logger&metric=alert_status)](https://sonarcloud.io/dashboard?id=arghyadeep-k_google-sheets-logger)
 [![npm version](https://badge.fury.io/js/google-sheets-logger.svg)](https://badge.fury.io/js/google-sheets-logger) 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/google-sheets-logger)
+![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/npm/google-sheets-logger)
 ![Depfu](https://img.shields.io/depfu/arghyadeep-k/google-sheets-logger)
-![npm](https://img.shields.io/npm/dt/google-sheets-logger)
-![NPM](https://img.shields.io/npm/l/google-sheets-logger)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/google-sheets-logger)
+![npm](https://img.shields.io/npm/dt/google-sheets-logger)
+![NPM](https://img.shields.io/npm/l/google-sheets-logger?color=blue)
 
 
 A simple Node.js module for logging in Google Sheets.
@@ -16,13 +19,13 @@ A simple Node.js module for logging in Google Sheets.
 
 **Install from command line:**
 
-`npm install google-sheets-logger`
+`npm install --save google-sheets-logger`
 
 Or
 
 **Install via package.json:**
 
-Add the following to your package.json file under dependencies-
+Add the following to your *package.json* file under dependencies
 
 `"google-sheets-logger": "1.0.2"`
 
@@ -103,4 +106,14 @@ Use this for an app that needs to access a set of documents that you have full a
 
 ## License
 
-google-sheets-logger is published under the MIT license. For more information, see the accompanying LICENSE file.
+Google Sheets Logger is published under the MIT license. For more information, see the accompanying LICENSE file.
+
+<br>
+
+---
+<br>
+
+### PS: 
+If you find this package useful, please [star](https://github.com/arghyadeep-k/google-sheets-logger) the project on Github. 
+
+And, if you are willing to [buy me a coffee](https://ko-fi.com/arghyadeep), that would be awesome. :)
